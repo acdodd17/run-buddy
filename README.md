@@ -11,4 +11,5 @@ A website that offers fitness training services.
 https://acdodd17.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [Anna-Dodd]
+
+Made with ❤️ by Anna Dodd
